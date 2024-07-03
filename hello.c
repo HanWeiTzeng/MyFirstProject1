@@ -11,7 +11,7 @@ int main() {
 
     //strB = strC;
     //strA = strC;
-    //strB = strA;
+
 
     printf(strB);
 
