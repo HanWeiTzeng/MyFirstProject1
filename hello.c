@@ -14,7 +14,6 @@ int main() {
     //strB = strA;
     //strB[1] = 'T';
     printf(strB);
-    //strC = strA;
 
     return 0;
 }
