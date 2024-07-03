@@ -12,7 +12,7 @@ int main() {
     //strB = strC;
     //strA = strC;
     //strB = strA;
-    //strB[1] = 'T';
+
     printf(strB);
 
     return 0;
