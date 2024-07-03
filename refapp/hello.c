@@ -10,7 +10,6 @@ int main() {
     strcpy(strB, strA);
 
     //strB = strC;
-    //strA = strC;
 
 
     printf(strB);
