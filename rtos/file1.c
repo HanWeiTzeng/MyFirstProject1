@@ -3,7 +3,7 @@
 
 int main() {
     char strA[] = "test";
-    char strB[3]; //= "test";
+    char strB[3];
     const char *strC = "test";
 
     strcpy(strB, strA);
